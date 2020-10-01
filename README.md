@@ -3,7 +3,7 @@
 
 
 
-Here are the versions we're using,
+Here are the versions we are using,
 
 node = v10.16.3
 npm = 6.9.0
@@ -13,7 +13,7 @@ pip = 19.1.1
 
 If you want to help improve the site, here is how you can set it up locally,
 
-Run the following,
+Run the following commands,
 
 ```
 $ npm install
